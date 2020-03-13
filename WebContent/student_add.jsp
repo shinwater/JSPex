@@ -53,7 +53,7 @@
 <body>
 	<div align="center">
 		<h3>학생 정보 추가</h3>
-		<hr width="70%" color="hotpink"/>
+		<hr width="70%" color="pink"/>
 		<form action="insert.do" method="post">
 			<table border="0" cellspacing="0" width="800">
 				<tr>
